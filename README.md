@@ -6,7 +6,7 @@ The dataset a cleaned version of the one found on [worldbank](https://data.world
 ```
 git clone https://github.com/Madhu94/dash-sample-app.git
 
-python -m venv ~/dash_venv
+python3 -m venv ~/dash_venv
 source ~/dash_venv_bin_activate
 pip install dash pandas
 
